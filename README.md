@@ -1,5 +1,7 @@
 # 2021-Big-Contest
 
+데이터분석부문 퓨처스리그 홍수ZERO 분야에서 최종적으로 최우수상을 수상하였습니다.
+
 ![슬라이드1](https://user-images.githubusercontent.com/60904652/163661218-1f184764-246c-49cf-b59b-4a3055b4a111.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/60904652/163661219-ff2afb2d-8dd6-4d53-8737-74a931893113.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/60904652/163661220-26d25e63-22a3-4121-bceb-ba1c5242b602.PNG)
@@ -8,7 +10,7 @@
 ![슬라이드6](https://user-images.githubusercontent.com/60904652/163661229-fcf9e9cc-8039-430b-9d5f-ae63ab30c977.PNG)
 ![슬라이드7](https://user-images.githubusercontent.com/60904652/163661230-76ac491b-184f-4599-97a6-e049de7f38d8.PNG)
 ![슬라이드8](https://user-images.githubusercontent.com/60904652/163661231-9f733128-893e-4932-a4c8-7113e3bfdb65.PNG)
-![슬라이드9](https://user-images.githubusercontent.com/60904652/163661233-7ce7a5a2-de09-4fdf-b9
+![슬라이드9](https://user-images.githubusercontent.com/60904652/163661233-7ce7a5a2-de09-4fdf-b9aa-4f015daea600.PNG)
 ![슬라이드10](https://user-images.githubusercontent.com/60904652/163661235-921524ce-1fd5-48b2-ab4f-4b2987451d8a.PNG)
 ![슬라이드11](https://user-images.githubusercontent.com/60904652/163661239-0482199d-1ef6-4ff4-824c-d751af986f6a.PNG)
 ![슬라이드12](https://user-images.githubusercontent.com/60904652/163661242-30dae269-5a30-46f8-9273-37357aba764d.PNG)
@@ -34,5 +36,5 @@
 ![슬라이드32](https://user-images.githubusercontent.com/60904652/163661289-ddcacd05-d040-4575-bec4-23b60cef2ed6.PNG)
 ![슬라이드33](https://user-images.githubusercontent.com/60904652/163661290-de0dd844-78d5-4a1e-9639-a16f7f8f7edf.PNG)
 ![슬라이드34](https://user-images.githubusercontent.com/60904652/163661291-9258c440-0350-4f2f-9365-43a060e182a7.PNG)
-aa-4f015daea600.PNG)
+
 
